@@ -1,0 +1,1 @@
+This is Sandra Hathaway's first git project!
